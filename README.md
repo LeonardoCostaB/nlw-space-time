@@ -8,3 +8,5 @@ Essa aplicação foi desenvolvida para ser um local para podermos cadastrar noss
 - tailwindCss
 
 Essa aplicação conta com um servidor que foi desenvolvido em nodejs junto da biblioteca fastify e algumas outras ferramentas para o auxilio como por exemplo o prisma.
+
+<a href="https://github.com/LeonardoCostaB/nlw-space-time-server" target="_blank">repo servidor</a>
